@@ -1,0 +1,8 @@
+applications:
+- name: gunman
+  memory: 160M
+  path: .
+#  path: GunClock.war
+  host: gunman
+  domain: mybluemix.net
+  buildpack: java_buildpack
