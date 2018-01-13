@@ -1,1 +1,4 @@
-#IBMCloud-tomcat
+# IBMCloud-tomcat
+
+IBM Cloud tomcat app sample
+
